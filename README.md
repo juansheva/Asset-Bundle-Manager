@@ -14,7 +14,7 @@ A lightweight, high-performance AssetBundle and Scene management tool for Unity,
 2. Click **+** > **Add package from git URL...**
 3. Enter:
    ```text
-   https://github.com/juansheva/Asset-Bundle-Manager.git
+   https://github.com/juansheva/UniTask-Asset-Bundle-Manager.git
    ```
 
 ## Dependencies
