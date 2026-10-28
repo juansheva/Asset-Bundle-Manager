@@ -1,0 +1,21 @@
+{
+    "name": "com.sheva.unitask_asset_bundle_manager",
+    "displayName": "UniTask Asset Bundle Manager",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "High-performance AssetBundle and Scene management tool utilizing UniTask for asynchronous loading, caching, and zero-allocation lookups.",
+    "author": {
+        "name": "Sheva",
+        "email": "juan.shevabiaggy@gmail.com",
+        "url": "https://github.com/juansheva"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/juansheva/Asset-Bundle-Manager.git"
+    },
+    "license": "MIT",
+    "category": "Script",
+    "dependencies": {
+        "com.cysharp.unitask": "2.5.10"
+    }
+}
