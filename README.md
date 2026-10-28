@@ -13,7 +13,6 @@ AssetBundle management tool for Unity, built using **UniTask** for asynchronous 
 ## Dependencies
 - [UniTask](https://github.com/Cysharp/UniTask) (`com.cysharp.unitask`) >= 2.5.10
 
-## Quick Start
 
 ## License
 MIT License.
